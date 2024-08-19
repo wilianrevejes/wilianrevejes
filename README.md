@@ -7,7 +7,7 @@
 </p>
 
 <div>
-<img src="https://socialify.git.ci/bruno-sartori/bruno-sartori/image?description=1&descriptionEditable=Software%20Engineer&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="bruno-sartori" width="700" height="300" />
+[<img src="https://socialify.git.ci/bruno-sartori/bruno-sartori/image?description=1&descriptionEditable=Software%20Engineer&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="bruno-sartori" width="700" height="300" />](https://socialify.git.ci/wilianrevejes/wilianrevejes?font=Raleway&name=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)
 </div>
 
 
@@ -63,14 +63,12 @@ I have some works with TypeScript, Node.js, Python and C++, contact me if you ha
 ### My Github Stats:
 
 <p>
-<img height="2100em" src="https://github-readme-stats.vercel.app/api?username=wilianrevejes&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="2100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilianrevejes&exclude_repo=KNN-Image-Classification&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=wilianrevejes&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilianrevejes&exclude_repo=KNN-Image-Classification&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wilianrevejes?theme=dark&font=Ubuntu&ext=activity)
-
-
 <!--
 **wilianrevejes/wilianrevejes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
