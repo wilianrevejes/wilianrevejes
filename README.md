@@ -6,9 +6,8 @@
 <a href="mailto:brunosartori.dev@gmail.com"><img src="https://img.shields.io/badge/-brunosartori.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunosartori.dev@gmail.com" /></a>
 </p>
 
-<div>
-[<img src="https://socialify.git.ci/bruno-sartori/bruno-sartori/image?description=1&descriptionEditable=Software%20Engineer&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="bruno-sartori" width="700" height="300" />](https://socialify.git.ci/wilianrevejes/wilianrevejes?font=Raleway&name=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)
-</div>
+
+![wilianrevejes](https://socialify.git.ci/wilianrevejes/wilianrevejes/image?font=Raleway&name=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)
 
 
 
